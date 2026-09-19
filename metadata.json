@@ -1,0 +1,7 @@
+{
+  "name": "NxtraDCIM - Data Center Infrastructure Management",
+  "description": "Enterprise Data Center Infrastructure Management platform featuring Energy Sustainability with real-time CO2 emissions calculation, color-coded carbon intensity tracking, 30-day PUE trend analysis, and actionable cooling & power distribution modifications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
